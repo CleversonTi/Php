@@ -1,6 +1,8 @@
 <?php
 
 
-echo "Hello Word! ";
-echo "Agora Vai";
+
+echo "Olá Mundo! ";
+echo "Vai Corinthians";
+
 ?>
